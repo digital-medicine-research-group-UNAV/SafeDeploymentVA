@@ -2,3 +2,5 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+exp_performance_results/
+lower_bound_results/
